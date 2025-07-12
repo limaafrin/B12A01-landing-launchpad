@@ -33,6 +33,11 @@ nav ul li {
     border: none;
 }
 
+/* header */
+.header{
+    background-image: url(../Assets/Hero-bg.png);
+}
+
 /* banner styles */
 .banner-title{
    color: #252432;
@@ -42,4 +47,5 @@ nav ul li {
 .banner{
     text-align: center;
     margin: 36px;
+    
 }
