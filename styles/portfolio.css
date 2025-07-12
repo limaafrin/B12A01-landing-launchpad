@@ -32,3 +32,14 @@ nav ul li {
     font-size: 16px;
     border: none;
 }
+
+/* banner styles */
+.banner-title{
+   color: #252432;
+   font-weight: bold;
+   font-size: 65px;
+}
+.banner{
+    text-align: center;
+    margin: 36px;
+}
